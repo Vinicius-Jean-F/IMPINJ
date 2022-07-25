@@ -18,5 +18,4 @@ recommended. It has been tested on windows and Raspberry Pi 3B+
 
 ![IMPINJ Screenshot](docs/IMPINJ_Reader.png "IMPINJ GUI Screenshot")
 
---- Original readme from qtgui ---
 
