@@ -2,9 +2,6 @@ IMPINJ_Reader is a QT Graphical Interface to control and configure IMPINJ reader
 
 Authors:
     - Vinícius Jean Ferreira
-
-Website:
-    https://github.com/DatamarsSA/ImpinjRecorder
    
 
 IMPINJ_Reader is a GUI frontend to the sllurp Python library, an implementation of a client for the Low Level Reader Protocol.
