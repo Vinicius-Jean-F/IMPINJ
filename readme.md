@@ -17,7 +17,7 @@ This project is in a Work In Progress state, and a few bugs and unfinished
 features are to be expected.
 
 
-![IMPINJ Screenshot](/docs/IMPINJ_Reader?raw=true "IMPINJ GUI Screenshot")
+![IMPINJ Screenshot](docs/IMPINJ_Reader.png "IMPINJ GUI Screenshot")
 
 --- Original readme from qtgui ---
 
