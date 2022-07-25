@@ -1,3 +1,5 @@
+# IMPINJ Reader Connect and Config
+
 IMPINJ_Reader is a QT Graphical Interface to control and configure IMPINJ readers.
 
 Authors:
@@ -20,6 +22,4 @@ features are to be expected.
 ![IMPINJ Screenshot](docs/IMPINJ_Reader.png "IMPINJ GUI Screenshot")
 
 --- Original readme from qtgui ---
-
-# Introduction
 
